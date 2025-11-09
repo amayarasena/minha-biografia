@@ -1,6 +1,6 @@
 # Minha Biografia
 
-Sate pessoal criado para apresentar um pouco sobre a minha tragetória e história com a programação
+Site pessoal criado para apresentar um pouco sobre a minha tragetória e história com a programação
 
 Funcionalidades:
 
